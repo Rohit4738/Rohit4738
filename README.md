@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h1 align="center">Hi , I'm Rohit</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Diploma+Computer+Engineering+Student;AI+Explorer+🤖;Gamer+%26+Screenshot+Artist+📸;Building+Random+Cool+Stuff+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&size=22&pause=1000&lines=Diploma+Computer+Engineering+Student;AI+Explorer+🤖;Gamer+%26+Screenshot+Artist+📸;Building+Random+Cool+Stuff+🚀" />
 </p>
 
 ---
@@ -48,16 +48,11 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🎮 My Gaming Photography
 <p align="center">
-<img src="https://github.com/Rohit4738/Rohit4738/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohit4738&theme=tokyonight&no-frame=true&row=1" />
+<a href="https://www.instagram.com/p/DU-eMeviFEo/?img_index=1&igsh=MW00NG1uZHdua2ptYw==">
+  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260219_001039.jpg" width="300"/>
+</a>
 </p>
 
 ---
@@ -69,11 +64,6 @@
 
 ---
 
-## ⚡ Quote
-> Code it. Break it. Fix it. Repeat.
-
----
-
 <p align="center">
-🔥 Thanks for visiting my profile 🔥
+✨ Thanks for visiting my profile ✨
 </p>
