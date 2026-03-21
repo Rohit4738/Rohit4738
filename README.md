@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h1 align="center">Hi, I'm Rohit</h1>
 
 <p align="center">
 <strong style="color:#8B0000;">Diploma Computer Engineering Student | AI Explorer 🤖 | Gamer & Screenshot Artist 📸 | Building Random Cool Stuff 🚀</strong>
