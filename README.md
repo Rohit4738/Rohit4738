@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Rohit</h1>
+<h1 align="center">Hi 👋, I'm Rohit</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&size=22&pause=1000&lines=+Diploma+Computer+Engineering+Student;AI+Explorer+🤖;Gamer+%26+Screenshot+Artist+📸;Building+Random+Cool+Stuff+🚀" />
+<strong style="color:#8B0000;">Diploma Computer Engineering Student | AI Explorer 🤖 | Gamer & Screenshot Artist 📸 | Building Random Cool Stuff 🚀</strong>
 </p>
 
 ---
