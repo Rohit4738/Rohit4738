@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Rohit</h1>
+<h1 align="center">Hi, I'm Rohit</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&size=22&pause=1000&lines=Diploma+Computer+Engineering+Student;AI+Explorer+🤖;Gamer+%26+Screenshot+Artist+📸;Building+Random+Cool+Stuff+🚀" />
@@ -50,8 +50,20 @@
 
 ## 🎮 My Gaming Photography
 <p align="center">
-<a href="https://www.instagram.com/p/DU-eMeviFEo/?img_index=1&igsh=MW00NG1uZHdua2ptYw==">
-  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260219_001039.jpg" width="300"/>
+<a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk">
+  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260219_001039.jpg" width="250"/>
+</a>
+<a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk">
+  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260201_224351.jpg" width="250"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk">
+  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260210_221031.jpg" width="250"/>
+</a>
+<a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk">
+  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260201_221123.jpg" width="250"/>
 </a>
 </p>
 
