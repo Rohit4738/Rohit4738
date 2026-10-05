@@ -41,19 +41,19 @@
 ## 🎮 My Gaming Photography
 <p align="center">
 <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk">
-  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260219_001039.jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/1select1.jpg" width="250"/>
 </a>
 <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk">
-  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260201_224351.jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/1select2.jpg" width="250"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk">
-  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260210_221031.jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/1select3.jpg" width="250"/>
 </a>
 <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk">
-  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/20260201_221123.jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/1select4.jpg" width="250"/>
 </a>
 </p>
 
