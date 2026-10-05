@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Rohit</h1>
 
 <p align="center">
-<strong style="color:#8B0000;">Diploma Computer Engineering Student | AI Explorer 🤖 | Gamer & Screenshot Artist 📸 | Building Random Cool Stuff 🚀</strong>
+<strong style="color:#8B0000;">Diploma Computer Engineering Student | Gamer & Screenshot Artist 📸 | Building Random Cool Stuff 🚀</strong>
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Diploma student in Computer Engineering  
-- 🤖 I actively use AI tools like ChatGPT, Claude & Gemini  
-- 🧠 Half my repos are built with AI, rest are random experiments  
+- 💻 Passionate about coding and software development  
 - 📸 I take in-game screenshots & upload them on Instagram  
 - 🎮 Gamer + Developer combo  
 
@@ -26,16 +25,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,html" />
-</p>
-
----
-
-## 🤖 AI Tools I Use
-<p align="left">
-<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html" />
 </p>
 
 ---
@@ -70,7 +60,7 @@
 ---
 
 ## 🎯 Fun Zone
-- 🧠 AI + Coding = Speed  
+- 💻 Coding & building projects  
 - 🎲 Some repos = serious, some = chaos  
 - 📷 Instagram = Gaming Photography  
 
