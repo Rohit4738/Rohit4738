@@ -39,28 +39,34 @@
 ---
 
 ## Gaming Photography
+
+<!-- Row 1: Landscape Pair -->
 <p align="center">
   <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select.jpeg" width="250"/></a>
   <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select2.jpg" width="250"/></a>
 </p>
 
+<!-- Row 2: Portrait Pair (Fills gap perfectly together) -->
 <p align="center">
-  <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select3.jpg" width="250"/></a>
-  <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select90.jpg" width="250"/></a>
+  <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select3.jpg" width="240"/></a>
+  <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select90.jpg" width="240"/></a>
 </p>
 
+<!-- Row 3: Landscape Pair -->
 <p align="center">
   <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select4.jpeg" width="250"/></a>
   <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select4.png" width="250"/></a>
 </p>
 
+<!-- Row 4: Mixed Pair -->
 <p align="center">
-  <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select6767.jpg" width="250"/></a>
+  <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select6767.jpg" width="240"/></a>
   <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select900000.jpeg" width="250"/></a>
 </p>
 
+<!-- Row 5: Wide Cinematic Banner -->
 <p align="center">
-  <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select67.jpg" width="520"/></a>
+  <a href="https://www.instagram.com/_ryo_950?igsh=NjVoaWV4ZG9xZzVk"><img src="https://raw.githubusercontent.com/Rohit4738/Repo-for-gitlinks/main/main/1select67.jpg" width="510"/></a>
 </p>
 
 ---
